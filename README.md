@@ -1,2 +1,1 @@
-# cooperative_collaborative_semantic_communication
-Cooperative and Collaborative Multi-Task Semantic Communication for Distributed Sources
+# dual-cooperative-semantic
